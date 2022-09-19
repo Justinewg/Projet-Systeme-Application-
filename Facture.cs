@@ -7,10 +7,10 @@ namespace Projet
         public decimal prix;
 
 
-
-    
-        public Facture()
+        public Facture(int id_facture, decimal prix)
         {
+            this.id_facture = id_facture;
+            this.prix = prix;
         }
 
 

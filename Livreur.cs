@@ -5,12 +5,7 @@ namespace Projet
     {
         public int id_livreur;
         public string nom;
-        public string prenom; 
-
-
-        public Livreur()
-        {
-        }
+        public string prenom;
 
         public Livreur(int id_livreur, string nom, string prenom)
         {
@@ -18,8 +13,6 @@ namespace Projet
             this.nom = nom;
             this.prenom = prenom;
         }
-
-
 
 
     }
