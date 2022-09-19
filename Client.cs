@@ -11,9 +11,8 @@ namespace Projet
         public DateTime premiere_commande;
         public int nombre_commande;
 
-        public Client(int id_client, string nom, string prenom, int num_telephone, string adresse, DateTime premiere_commande, int nombre_commande)
-        {
-            this.id_client = id_client;
+        public Client(string nom, string prenom, int num_telephone, string adresse, DateTime premiere_commande, int nombre_commande)
+        { 
             this.nom = nom;
             this.prenom = prenom;
             this.num_telephone = num_telephone;
@@ -42,6 +41,8 @@ namespace Projet
                     Console.WriteLine('Entrez la date de votre première commande.');
                     DateTime date_pr_com = Console.ReadLine();
 
+                    Client nv_client = new Client(nom,prenom, num_tel, adr, date_pr_com, 0);
+
                 }
                 else if ((reponse = Console.ReadLine()) = 'N')
                 {
@@ -53,6 +54,7 @@ namespace Projet
 
         public static void nouveau_client(nom, prenom, adr, num_tel, date_pr_com)
         {
+
 
         }
 
