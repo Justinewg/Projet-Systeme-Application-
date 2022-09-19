@@ -1,0 +1,15 @@
+E:\M1\Intégration de système - Application\projet\Projet-Systeme-Application-\.vs\Projet-Systeme-Application-\PizzaDecoratorPattern\PizzaDecoratorPattern\bin\Debug\net6.0\PizzaDecoratorPattern.exe
+E:\M1\Intégration de système - Application\projet\Projet-Systeme-Application-\.vs\Projet-Systeme-Application-\PizzaDecoratorPattern\PizzaDecoratorPattern\bin\Debug\net6.0\PizzaDecoratorPattern.deps.json
+E:\M1\Intégration de système - Application\projet\Projet-Systeme-Application-\.vs\Projet-Systeme-Application-\PizzaDecoratorPattern\PizzaDecoratorPattern\bin\Debug\net6.0\PizzaDecoratorPattern.runtimeconfig.json
+E:\M1\Intégration de système - Application\projet\Projet-Systeme-Application-\.vs\Projet-Systeme-Application-\PizzaDecoratorPattern\PizzaDecoratorPattern\bin\Debug\net6.0\PizzaDecoratorPattern.dll
+E:\M1\Intégration de système - Application\projet\Projet-Systeme-Application-\.vs\Projet-Systeme-Application-\PizzaDecoratorPattern\PizzaDecoratorPattern\bin\Debug\net6.0\PizzaDecoratorPattern.pdb
+E:\M1\Intégration de système - Application\projet\Projet-Systeme-Application-\.vs\Projet-Systeme-Application-\PizzaDecoratorPattern\PizzaDecoratorPattern\obj\Debug\net6.0\PizzaDecoratorPattern.csproj.AssemblyReference.cache
+E:\M1\Intégration de système - Application\projet\Projet-Systeme-Application-\.vs\Projet-Systeme-Application-\PizzaDecoratorPattern\PizzaDecoratorPattern\obj\Debug\net6.0\PizzaDecoratorPattern.GeneratedMSBuildEditorConfig.editorconfig
+E:\M1\Intégration de système - Application\projet\Projet-Systeme-Application-\.vs\Projet-Systeme-Application-\PizzaDecoratorPattern\PizzaDecoratorPattern\obj\Debug\net6.0\PizzaDecoratorPattern.AssemblyInfoInputs.cache
+E:\M1\Intégration de système - Application\projet\Projet-Systeme-Application-\.vs\Projet-Systeme-Application-\PizzaDecoratorPattern\PizzaDecoratorPattern\obj\Debug\net6.0\PizzaDecoratorPattern.AssemblyInfo.cs
+E:\M1\Intégration de système - Application\projet\Projet-Systeme-Application-\.vs\Projet-Systeme-Application-\PizzaDecoratorPattern\PizzaDecoratorPattern\obj\Debug\net6.0\PizzaDecoratorPattern.csproj.CoreCompileInputs.cache
+E:\M1\Intégration de système - Application\projet\Projet-Systeme-Application-\.vs\Projet-Systeme-Application-\PizzaDecoratorPattern\PizzaDecoratorPattern\obj\Debug\net6.0\PizzaDecoratorPattern.dll
+E:\M1\Intégration de système - Application\projet\Projet-Systeme-Application-\.vs\Projet-Systeme-Application-\PizzaDecoratorPattern\PizzaDecoratorPattern\obj\Debug\net6.0\refint\PizzaDecoratorPattern.dll
+E:\M1\Intégration de système - Application\projet\Projet-Systeme-Application-\.vs\Projet-Systeme-Application-\PizzaDecoratorPattern\PizzaDecoratorPattern\obj\Debug\net6.0\PizzaDecoratorPattern.pdb
+E:\M1\Intégration de système - Application\projet\Projet-Systeme-Application-\.vs\Projet-Systeme-Application-\PizzaDecoratorPattern\PizzaDecoratorPattern\obj\Debug\net6.0\PizzaDecoratorPattern.genruntimeconfig.cache
+E:\M1\Intégration de système - Application\projet\Projet-Systeme-Application-\.vs\Projet-Systeme-Application-\PizzaDecoratorPattern\PizzaDecoratorPattern\obj\Debug\net6.0\ref\PizzaDecoratorPattern.dll
